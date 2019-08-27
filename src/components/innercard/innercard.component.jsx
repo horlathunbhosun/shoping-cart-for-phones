@@ -18,7 +18,7 @@ class InnerCard extends React.Component {
                   {
                     title: 'Iphone 8',
                     imageUrl: 'https://zdnet4.cbsistatic.com/hub/i/2018/10/31/3f11dc70-5c4d-40a9-bcae-ff1994ca2e18/a2fa4e4583330af9dd1fb013891c048a/iphone-x-vs-xr.jpg',
-                    id: 2,
+                     id: 2,
                     linkUrl: ''
                   },
                   {
